@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SiphrCodez
-- 👀 I’m interested in Web Development, App Development
-- 💞️ I’m looking to collaborate on some web projects!
-- 📫 How to reach me **Siphr#9999**
+Hello there! I'm Siphr, a Developer natively from Mexico, I speak English and little bit of Spanish, you can reach me on discord.com at **Siphr#9999**. 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=siphrcodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/SiphrCodez)
 
