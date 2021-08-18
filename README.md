@@ -1,7 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/SiphrCodez/SiphrCodez.svg?cache=remove)
 
-# <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> Hello there! I am Nicolas!
-
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/SiphrCodez)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siphrcodez@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SiphrCodez)
