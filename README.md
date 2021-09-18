@@ -6,11 +6,11 @@
 
 - I go by Siphr, you can contact me at **Siphr#9999**
 - I'm a self-taught developer currently focused on making web applications.
-- I live in Mexico, speak mainly English.
+- I live in the United States, and I speak primairly English.
 
 ## 👨🏻‍💻 About Me
 
-Hey There! My name is Siphr. I'm a 17 year old Web Developer from Mexico City, Mexico and currently reside in Tulum, Mexico. I'm currently working on a project named **Novus** this will be a chat application based off of [Omegle](https://omegle.com), but with many more features such as accounts, user badges, and much more! I love to work with the JavaScript, and TypeScript languages, but I am also fluent in Python, HTML & CSS, C, C#, C++. 
+Hey There! My name is Siphr. I'm a 17 year old Web Developer from Mexico City, Mexico and currently reside in the United States. I'm currently working on a project named **Novus** this will be a chat application based off of [Omegle](https://omegle.com), but with many more features such as accounts, user badges, and much more! I love to work with the JavaScript, and TypeScript languages, but I am also fluent in Python, HTML & CSS, C, C#, C++. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphrCodez&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SiphrCodez)
 
