@@ -1,16 +1,52 @@
 ![ViewCount](https://views.whatilearened.today/views/github/SiphrCodez/SiphrCodez.svg?cache=remove)
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/SiphrCodez)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siphrcodez@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SiphrCodez)
+```js
+import { README } from 'github';
 
-- I go by Siphr, you can contact me at **Siphr#8069**
-- I'm a self-taught developer currently focused on making web applications.
-- I live in the United States, and I speak primairly English.
+class Contacts {
+  constructor(discord, gmail) {
+    this.discord = discord;
+    this.gmail = gmail;
+  };
+};
 
-## 👨🏻‍💻 About Me
+class Project {
+  constructor(name, description, url) {
+    this.name = name;
+    this.description = description;
+    this.url = url;
+  };
+};
 
-Hey There! My name is Siphr. I'm a 16 year old Web Developer from Mexico City, Mexico and currently reside in the United States. I'm currently working on a fitness application in which users can use to log their excercise, diets, and find more workout regimens too follow, provided by professional trainers. I love to work with the JavaScript, and TypeScript languages, but I am also fluent in Python, HTML & CSS, C, C#, C++. 
+const data = {
+  name: "Clem",
+  age: "16",
+  country: "United States",
+  occupation: "Software Engineer",
+  contact: [
+    Contacts.discord = "Clem#5000",
+    Contacts.gmail = "siphrcodez@gmail.com",
+  ],
+  project: [
+    Project.name = "Simick",
+    Project.description = "Fitness application in which users can use to log their excercise, diets, and find more workout regimens too follow, provided by professional trainers.",
+    Project.url = "https://simick.app"
+  ]
+  languges: [
+    "JS",
+    "TS",
+    "PY",
+    "HTML",
+    "CSS",
+  ],
+};
+
+async function aboutMe() {
+  await README.update({ data: data })
+};
+
+aboutMe();
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphrCodez&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SiphrCodez)
 
