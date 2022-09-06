@@ -28,9 +28,9 @@ const data = {
     Contacts.gmail = "siphrcodez@gmail.com",
   ],
   project: [
-    Project.name = "Simick",
-    Project.description = "Fitness application in which users can use to log their excercise, diets, and find more workout regimens too follow, provided by professional trainers.",
-    Project.url = "https://simick.app"
+    Project.name = "Better Modmail",
+    Project.description = "Better Modmail is a Discord Bot Application.",
+    Project.url = "NOT AVAILABLE YET"
   ]
   languges: [
     "JS",
