@@ -24,7 +24,7 @@ const data = {
   country: "United States",
   occupation: "Software Engineer",
   contact: [
-    Contacts.discord = "Clem#5000",
+    Contacts.discord = "Met#1337",
     Contacts.gmail = "siphrcodez@gmail.com",
   ],
   project: [
