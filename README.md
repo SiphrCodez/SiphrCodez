@@ -19,8 +19,8 @@ class Project {
 };
 
 const data = {
-  name: "Clem",
-  age: "16",
+  name: "Met",
+  age: "17",
   country: "United States",
   occupation: "Software Engineer",
   contact: [
