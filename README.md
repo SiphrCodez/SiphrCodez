@@ -29,13 +29,10 @@ More experiments, packages, and in-progress builds live across the rest of my re
 
 ## GitHub Signals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiphrCodez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=C9D1D9&bg_color=00000000" alt="SiphrCodez GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiphrCodez&layout=compact&hide_border=true&title_color=7A7ADB&text_color=C9D1D9&bg_color=00000000" alt="Top languages used by SiphrCodez" />
-</p>
+- [View my GitHub profile](https://github.com/SiphrCodez)
+- [Browse my public repositories](https://github.com/SiphrCodez?tab=repositories)
+- [See what I'm shipping right now in BetterLogs](https://github.com/SiphrCodez/BetterLogs)
+- [Explore language and tokenizer work in NewTokenizer](https://github.com/SiphrCodez/NewTokenizer)
 
 ## Connect
 
