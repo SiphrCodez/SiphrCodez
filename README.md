@@ -20,16 +20,16 @@ class Project {
 
 const data = {
   name: "Met",
-  age: "17",
+  age: "20",
   country: "United States",
   occupation: "Software Engineer",
   contact: [
-    Contacts.discord = "Met#1337",
+    Contacts.discord = "Met#0001 / notmet",
     Contacts.gmail = "siphrcodez@gmail.com",
   ],
   project: [
-    Project.name = "Better Modmail",
-    Project.description = "Better Modmail is a Discord Bot Application.",
+    Project.name = "Orion",
+    Project.description = "Orion is a comprehensive Artificial Intelligence system.",
     Project.url = "NOT AVAILABLE YET"
   ]
   languges: [
